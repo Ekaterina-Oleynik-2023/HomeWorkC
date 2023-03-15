@@ -6,4 +6,3 @@ if (n % 2 == 0)
   Console.WriteLine($"{n} - чётное число");
 if (n % 2 == 1)
   Console.WriteLine($"{n} - нечётное число");
-
