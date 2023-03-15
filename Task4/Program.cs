@@ -11,4 +11,3 @@ if (max < b) max = b;
 if (max < c) max = c;
 Console.WriteLine($"Большее число {max}");
 
-
