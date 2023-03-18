@@ -1,0 +1,15 @@
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\obj\Debug\net6.0\Task by.csproj.AssemblyReference.cache
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\obj\Debug\net6.0\Task by.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\obj\Debug\net6.0\Task by.AssemblyInfoInputs.cache
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\obj\Debug\net6.0\Task by.AssemblyInfo.cs
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\obj\Debug\net6.0\Task by.csproj.CoreCompileInputs.cache
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\bin\Debug\net6.0\Task by.exe
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\bin\Debug\net6.0\Task by.deps.json
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\bin\Debug\net6.0\Task by.runtimeconfig.json
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\bin\Debug\net6.0\Task by.dll
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\bin\Debug\net6.0\Task by.pdb
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\obj\Debug\net6.0\Task by.dll
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\obj\Debug\net6.0\refint\Task by.dll
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\obj\Debug\net6.0\Task by.pdb
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\obj\Debug\net6.0\Task by.genruntimeconfig.cache
+C:\Users\Семья\Desktop\Семинар_1\HomeWorkC\Task by\obj\Debug\net6.0\ref\Task by.dll
